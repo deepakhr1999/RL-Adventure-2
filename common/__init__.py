@@ -1,1 +1,1 @@
-import multiprocessing_env
+from .multiprocessing_env import SubprocVecEnv
