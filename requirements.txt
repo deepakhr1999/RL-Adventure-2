@@ -1,0 +1,5 @@
+gym[atari]==0.25.1
+pandas==1.4.3
+numpy==1.23.2
+torch==1.12.1
+black==22.6.0
